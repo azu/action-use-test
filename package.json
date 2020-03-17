@@ -1,0 +1,28 @@
+{
+  "name": "action-use-test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/azu/action-use-test",
+  "bugs": {
+    "url": "https://github.com/azu/action-use-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/action-use-test.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "lib/action-use-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
